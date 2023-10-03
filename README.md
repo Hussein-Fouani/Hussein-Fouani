@@ -7,8 +7,9 @@
 <h3 align="center">A passionate Software developer from Lebanon</h3>
 
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.4fNBO_UDYEVxM0E5T2FyJQHaFj%26pid%3DApi&f=1&ipt=810559c4de3bc80e2d11addf48d20214599f642e6f9ec8418c49e14
->
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.4fNBO_UDYEVxM0E5T2FyJQHaFj%26pid%3DApi&f=1&ipt=810559c4de3bc80e2d11addf48d20214599f642e6f9ec8418c49e14f1e2a189a&ipo=images" alt="Coding" style="border-radius: 50%;">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussein-fouani&label=Profile%20views&color=0e75b6&style=flat" alt="hussein-fouani" /> </p>
 

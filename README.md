@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **hussein.fouani000@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DEKkUrx047VtyBXRYeer_zPKlQDsq9qH-KtxOCndmRM/edit?usp=sharing](https://docs.google.com/document/d/1DEKkUrx047VtyBXRYeer_zPKlQDsq9qH-KtxOCndmRM/edit?usp=sharing)
+📄 Know about my experiences [https://tinyurl.com/CV-Resumee](https://tinyurl.com/CV-Resumee)
 
 - ⚡ Fun fact **I speak fluent 'code' and have been known to dream in algorithms! My brain's favorite error message? '404: Sleep Not Found.' 💻😴**
 

@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hussein-fouani.github.io/Portfolio/](https://hussein-fouani.github.io/Portfolio/)
 
-- 💬 Ask me about **java, js, security**
+- 💬 Ask me about **java,C#,Spring,ASP/.Net,JS,Angular security**
 
 - 📫 How to reach me **hussein.fouani000@gmail.com**
 

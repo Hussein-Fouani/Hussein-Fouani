@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussein-fouani" alt="hussein-fouani" /></a> </p>
 
-- 🌱 I’m currently learning **Spring FrameWork , ReactJS**
+- 🌱 I’m currently learning **.Net FrameWork , ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://hussein-fouani.github.io/Portfolio/](https://hussein-fouani.github.io/Portfolio/)
 

@@ -80,6 +80,7 @@ def build_lines(stats, today):
     fmt = lambda k: f"{s[k]:,}" if k in s else "…"
     rows = [
         ("title", "hussein@fouani"),
+        ("kv", "OS", "Windows, Linux"),
         ("kv", "Role", ".NET Backend Developer"),
         ("kv", "Uptime", uptime(today)),
         ("kv", "Host", "Synapse (Hospital Information System)"),

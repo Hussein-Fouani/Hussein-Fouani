@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="525px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;} .art {fill: #58a6ff;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="525px" fill="#161b22" rx="15"/>
+<text x="15" y="30" class="art">
+<tspan x="15" y="30">::::::::::::::::::i||llllllllll|!,,::::,`'</tspan>
+<tspan x="15" y="50">;;;;;;;;;;;;:::::;i|lllllllll||!:..'`,:,.</tspan>
+<tspan x="15" y="70">;;;;;;;;;;;;;;;::;i|lllllll|!:'       ..</tspan>
+<tspan x="15" y="90">;;;;;;;;;;;;;:;;;;i|lllllli,'</tspan>
+<tspan x="15" y="110">[ffft[{{{j|:''`:!|ljjjjjjl|;:`'</tspan>
+<tspan x="15" y="130">kmwwwmf[[[j!,`:l{tttttttt[{|!:,'</tspan>
+<tspan x="15" y="150">w%mffkkt[j|;,,;|{k@@@MMM%kttlii:`</tspan>
+<tspan x="15" y="170">HMHwmmkt{li,`:!l[k@Mwt[{{ljtt[[|!,'    `::</tspan>
+<tspan x="15" y="190">%@MMM@@Hf[[[[[tw%M%Hwkffffftj|i;:`'.   '``</tspan>
+<tspan x="15" y="210">wmwHHHHmt|,,,;|H@@@@%%Hk{|!:`''.     ...</tspan>
+<tspan x="15" y="230">HH%MMM%wj!,``;iwMM@MHHk{;,.</tspan>
+<tspan x="15" y="250">%MMM%%mj;,,,`:!lliil{[l:.                .</tspan>
+<tspan x="15" y="270">kmtj!!;!!!iii|l{jlj{[i,.</tspan>
+<tspan x="15" y="290">{[{{{{{{{jjjjjjj{[tj!`</tspan>
+<tspan x="15" y="310">{[[[[[tt[[[[[{{[tfl;'</tspan>
+<tspan x="15" y="330">kf{[mwHwwkfftfkk{!`.  .'`:;;`</tspan>
+<tspan x="15" y="350">wf{f%@@@Hkfkmk[i`. .`;!!i!il;`</tspan>
+<tspan x="15" y="370">mk[[fmwwHHwwt|,' .';i|jjl|||li'</tspan>
+<tspan x="15" y="390">@MHwH%MMHk[!,'. ,!{[t[[[[{{{{ji:'</tspan>
+<tspan x="15" y="410">%%%H%%Hwt|`.   `!|{{{jjlll||iii!:.</tspan>
+<tspan x="15" y="430">||ii!!;:,'    .''`````````````:|i:'</tspan>
+<tspan x="15" y="450">''''''.......                 ':|l:'</tspan>
+<tspan x="15" y="470">..........                     ,i|;'</tspan>
+<tspan x="15" y="490">...                  ...       ,i|:.</tspan>
+<tspan x="15" y="510">                               !|l;`</tspan>
+</text>
+<text x="430" y="30" fill="#c9d1d9">
+<tspan x="430" y="30">hussein@fouani</tspan> -—————————————————————————————————————-—-
+<tspan x="430" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">.NET Backend Developer</tspan>
+<tspan x="430" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">2 years, 5 months (at Synapse)</tspan>
+<tspan x="430" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Synapse (Hospital Information System)</tspan>
+<tspan x="430" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">C#, .NET, ASP.NET Core</tspan>
+<tspan x="430" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Visual Studio, VS Code</tspan>
+<tspan x="430" y="150" class="cc">. </tspan>
+<tspan x="430" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C#, Java, TypeScript, SQL</tspan>
+<tspan x="430" y="190" class="cc">. </tspan><tspan class="key">Languages.Frameworks</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">ASP.NET Core, EF, Spring Boot</tspan>
+<tspan x="430" y="210" class="cc">. </tspan><tspan class="key">Languages.Frontend</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Angular, React</tspan>
+<tspan x="430" y="230" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">English, Arabic</tspan>
+<tspan x="430" y="250" class="cc">. </tspan>
+<tspan x="430" y="270" class="cc">. </tspan><tspan class="key">Learning.Now</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Python, pandas, scikit-learn</tspan>
+<tspan x="430" y="290" class="cc">. </tspan><tspan class="key">Learning.Next</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PyTorch, LLMs, RAG, MLOps</tspan>
+<tspan x="430" y="310" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Algorithms / LeetCode, AI/ML</tspan>
+<tspan x="430" y="330">- Contact</tspan> -——————————————————————————————————————————-—-
+<tspan x="430" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">hussein-fouani</tspan>
+<tspan x="430" y="370" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">hussein-fouani.github.io/Portfolio</tspan>
+<tspan x="430" y="390" class="cc">. </tspan><tspan class="key">LeetCode</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">hussein_fouani</tspan>
+<tspan x="430" y="410">- GitHub Stats</tspan> -—————————————————————————————————————-—-
+<tspan x="430" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">…</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">…</tspan>
+<tspan x="430" y="450" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">…</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">…</tspan>
+</text>
+</svg>

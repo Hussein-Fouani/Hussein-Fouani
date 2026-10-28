@@ -35,26 +35,27 @@ text, tspan {white-space: pre;}
 </text>
 <text x="430" y="30" fill="#24292f">
 <tspan x="430" y="30">hussein@fouani</tspan> -—————————————————————————————————————-—-
-<tspan x="430" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">.NET Backend Developer</tspan>
-<tspan x="430" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">2 years, 5 months (at Synapse)</tspan>
-<tspan x="430" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Synapse (Hospital Information System)</tspan>
-<tspan x="430" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">C#, .NET, ASP.NET Core</tspan>
-<tspan x="430" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Visual Studio, VS Code</tspan>
-<tspan x="430" y="150" class="cc">. </tspan>
-<tspan x="430" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C#, Java, TypeScript, SQL</tspan>
-<tspan x="430" y="190" class="cc">. </tspan><tspan class="key">Languages.Frameworks</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">ASP.NET Core, EF, Spring Boot</tspan>
-<tspan x="430" y="210" class="cc">. </tspan><tspan class="key">Languages.Frontend</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Angular, React</tspan>
-<tspan x="430" y="230" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">English, Arabic</tspan>
-<tspan x="430" y="250" class="cc">. </tspan>
-<tspan x="430" y="270" class="cc">. </tspan><tspan class="key">Learning.Now</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Python, pandas, scikit-learn</tspan>
-<tspan x="430" y="290" class="cc">. </tspan><tspan class="key">Learning.Next</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PyTorch, LLMs, RAG, MLOps</tspan>
-<tspan x="430" y="310" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Algorithms / LeetCode, AI/ML</tspan>
-<tspan x="430" y="330">- Contact</tspan> -——————————————————————————————————————————-—-
-<tspan x="430" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">hussein-fouani</tspan>
-<tspan x="430" y="370" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">hussein-fouani.github.io/Portfolio</tspan>
-<tspan x="430" y="390" class="cc">. </tspan><tspan class="key">LeetCode</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">hussein_fouani</tspan>
-<tspan x="430" y="410">- GitHub Stats</tspan> -—————————————————————————————————————-—-
-<tspan x="430" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">49</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">13</tspan>
-<tspan x="430" y="450" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">1,213</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">7</tspan>
+<tspan x="430" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Windows, Linux</tspan>
+<tspan x="430" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">.NET Backend Developer</tspan>
+<tspan x="430" y="90" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">2 years, 5 months (at Synapse)</tspan>
+<tspan x="430" y="110" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Synapse (Hospital Information System)</tspan>
+<tspan x="430" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">C#, .NET, ASP.NET Core</tspan>
+<tspan x="430" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Visual Studio, VS Code</tspan>
+<tspan x="430" y="170" class="cc">. </tspan>
+<tspan x="430" y="190" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C#, Java, TypeScript, SQL</tspan>
+<tspan x="430" y="210" class="cc">. </tspan><tspan class="key">Languages.Frameworks</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">ASP.NET Core, EF, Spring Boot</tspan>
+<tspan x="430" y="230" class="cc">. </tspan><tspan class="key">Languages.Frontend</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Angular, React</tspan>
+<tspan x="430" y="250" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">English, Arabic</tspan>
+<tspan x="430" y="270" class="cc">. </tspan>
+<tspan x="430" y="290" class="cc">. </tspan><tspan class="key">Learning.Now</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Python, pandas, scikit-learn</tspan>
+<tspan x="430" y="310" class="cc">. </tspan><tspan class="key">Learning.Next</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PyTorch, LLMs, RAG, MLOps</tspan>
+<tspan x="430" y="330" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Algorithms / LeetCode, AI/ML</tspan>
+<tspan x="430" y="350">- Contact</tspan> -——————————————————————————————————————————-—-
+<tspan x="430" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">hussein-fouani</tspan>
+<tspan x="430" y="390" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">hussein-fouani.github.io/Portfolio</tspan>
+<tspan x="430" y="410" class="cc">. </tspan><tspan class="key">LeetCode</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">hussein_fouani</tspan>
+<tspan x="430" y="430">- GitHub Stats</tspan> -—————————————————————————————————————-—-
+<tspan x="430" y="450" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">49</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">13</tspan>
+<tspan x="430" y="470" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">1,215</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">7</tspan>
 </text>
 </svg>
